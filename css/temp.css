@@ -125,10 +125,10 @@ nav ul li a:hover {
 /* <!-- landing-siction --> */
 
 .landing {
-  background-image: url(/templet1/images/back2.jpg);
+  background-image: url(../images/back2.jpg);
   background-size: cover;
   background-position: center;
-  height: calc(100vh - 80px);
+  height: calc(100vh - 79px);
   position: relative;
 }
 
